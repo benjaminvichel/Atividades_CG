@@ -1,0 +1,8 @@
+﻿  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': redefinição de macro
+  (compilando o arquivo fonte '../../../../CGCCHibrido/Hello3D/glad.c')
+      C:\Users\ben\source\repos2022\ComputacaoGrafica\Atividades_CG\Hello3D\dependencies\include\glad\glad.h(32,9):
+      ver a definição anterior de "APIENTRY"
+  
+  Origem.cpp
+  Hello3D.vcxproj -> C:\Users\ben\source\repos2022\ComputacaoGrafica\Atividades_CG\Hello3D\x64\Debug\Hello3D.exe
